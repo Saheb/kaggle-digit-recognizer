@@ -9,4 +9,6 @@ A machine learning project to classify handwritten digits (0–9) using the [Dig
 uv venv && uv sync
 source .venv/bin/activate
 ```
+## Submission Accuracy Results 
+
 ![Results](<Screenshot 2025-09-17 at 23.03.24.png>)
