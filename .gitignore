@@ -1,0 +1,7 @@
+/.venv
+/digit-recognizer.zip
+/kaggle_digit_recognizer.egg-info
+/sample_submission.csv
+/submission.csv
+/submission_cnn1.csv
+/uv.lock
